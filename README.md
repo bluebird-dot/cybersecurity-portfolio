@@ -8,4 +8,4 @@ A collection of cybersecurity labs, projects, and reports by Thapelo Nyapele.
 
 ### Additional Scan Output
 
-![Nmap Scan 2](Nmap-scann-result-01.png)
+![Nmap Scan 2](Nmap-scan-result-01.png)
