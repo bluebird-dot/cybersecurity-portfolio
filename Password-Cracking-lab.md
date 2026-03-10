@@ -86,3 +86,28 @@ hello123
 ## Conclusion
 
 This lab demonstrates how password cracking works and why strong password policies are important in cybersecurity.
+
+## Screenshots
+
+### Hash creation and Passowrd creation
+![Hash Creation and Password cracking](Password-Cracking-lab-00.png)
+
+### Cracked Password
+![Cracked Password](Password-cracking-lab-01.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
